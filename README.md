@@ -1,2 +1,2 @@
 # CancerPred
-ANN perfomred better than SVM
+ANN performed better than SVM
